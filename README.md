@@ -1,5 +1,5 @@
 # ngx_http_cors_filter
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/detailyang/ngx_http_cors_filter.svg)](https://travis-ci.org/detailyang/ngx_http_cors_filter)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/ngx_http_cors_filter/master/LICENSE)[![release](https://img.shields.io/github/release/detailyang/ngx_http_cors_filter.svg)](https://github.com/detailyang/ngx_http_cors_filter/releases)
+![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/nginx-lover/ngx_http_cors_filter.svg)](https://travis-ci.org/nginx-lover/ngx_http_cors_filter)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nginx-lover/ngx_http_cors_filter/master/LICENSE)[![release](https://img.shields.io/github/release/nginx-lover/ngx_http_cors_filter.svg)](https://github.com/nginx-lover/ngx_http_cors_filter/releases)
 
 
 ngx_http_cors_filter_module is a an addon for nginx to dynamic generate cors(Cross-Origin Resource Sharing). Also we can use if to get the the same purpose as following:
